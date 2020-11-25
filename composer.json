@@ -1,5 +1,5 @@
 {
-	"name": "unclecheese/silverstripe-blog-sortable-categories",
+	"name": "sunnysideup/silverstripe-blog-sortable-categories",
 	"description": "Makes the categories in silverstripe/blog orderable",
     "type": "silverstripe-module",
     "keywords": ["silverstripe", "blog", "sortable", "categories"],	
